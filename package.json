@@ -1,0 +1,15 @@
+{
+  "name": "drift-bottle-v2",
+  "version": "2.0.0",
+  "description": "基于 Supabase 的漂流瓶应用",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
